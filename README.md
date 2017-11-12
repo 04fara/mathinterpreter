@@ -1,6 +1,6 @@
 # Math Interpreter
 
-Math Interpreter parses and evaluates mathematical expressions (supported operators: +, -, \*, /, unary +, &, |, ^ and () ) with the help of Visitor pattern.
+Math Interpreter parses and evaluates mathematical expressions (supported operators: +, -, \*, /, unary +, unary -, &, |, ^ and () ) with the help of Visitor pattern.
 
 Operators precedence:
 ![**Operators precedence**](https://i.imgur.com/SMouYEO.png)
